@@ -1,3 +1,2 @@
 Instructions for deploying to server
 ::::::::::::::::::::::::::::::::::::
-foobar
